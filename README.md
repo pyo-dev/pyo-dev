@@ -14,7 +14,7 @@
 <!-- React -->
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <!-- Vue -->
-<img src="https://img.shields.io/badge/vuedotjs-4FC08Dstyle=flat-square&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
 <!-- Webpack -->
 <img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"/>
 <!-- Vite -->
